@@ -7,37 +7,27 @@ Languages: Java, JavaScript, SQL Frameworks: Spring Boot, Spring Security, Hiber
 
 🔭 Currently Working On
 A Lost & Found Platform with admin workflows, reward logic, and secure role-based access
-
 API development with Spring Boot + MySQL
-
 Improving backend security, logging, and automation
 
 🌱 Currently Learning
 Advanced Spring Security (JWT, RBAC)
-
 Microservices & distributed systems
-
 Database optimization and indexing
 
 👯 Looking to Collaborate On
 Java/Spring Boot backend projects
-
 Open-source tools for workflow automation
-
 Student tech communities and backend-focused groups
 
 💬 Ask Me About
 Spring Boot
-
 MySQL
-
 API design
-
 Debugging backend issues
 
 Postman testing
 
 📫 Reach Me
-Email: add your email here
+Email:sasilak998@gmail.com 
 
-LinkedIn: add your link here
